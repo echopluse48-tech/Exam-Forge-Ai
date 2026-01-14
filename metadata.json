@@ -1,0 +1,7 @@
+{
+  "name": "ExamForge AI",
+  "description": "A sophisticated AI-powered exam generator that transforms your textbooks, curriculum specifications, and sample tests into personalized practice exams.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
